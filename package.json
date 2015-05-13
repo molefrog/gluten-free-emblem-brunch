@@ -1,0 +1,29 @@
+{
+  "name": "gluten-free-emblem-brunch",
+  "version": "0.0.1",
+  "description": "Emblem.js compiler for Brunch with support for Ember 1.10+ only.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/molefrog/gluten-free-emblem-brunch.git"
+  },
+  "keywords": [
+    "brunch",
+    "plugin",
+    "emblem.js",
+    "ember",
+    "htmlbars"
+  ],
+  "author": "Alexey Taktarov <molefrog@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/molefrog/gluten-free-emblem-brunch/issues"
+  },
+  "homepage": "https://github.com/molefrog/gluten-free-emblem-brunch",
+  "dependencies": {
+    "coffee-script": "^1.9.2"
+  }
+}
